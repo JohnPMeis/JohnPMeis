@@ -1,5 +1,5 @@
-What's up my Glip Glops!!  
-Welcome to GitHub Dimension C-137.  
+# What's up my Glip Glops!!  
+## Welcome to GitHub Dimension C-137.  
 I will be your Rick err... Host, for this repository.  
 I am currently pursusing my degree in Cybersecurity @ Collin College.  
 I have so far achieved the following certs: Cisco CCNA and CCST, Splunk User, and most recently Cribl User.  
